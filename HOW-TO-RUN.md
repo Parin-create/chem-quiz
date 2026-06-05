@@ -16,6 +16,41 @@ CBSE Class 12 Chemistry quiz app (Vite + React).
 
 ---
 
+## Open it on ANOTHER laptop (via GitHub) — recommended
+
+This project lives on GitHub at: https://github.com/Parin-create/chem-quiz
+
+On the new laptop (one-time):
+1. Install **Node.js** (LTS) from https://nodejs.org
+2. Install **Git** from https://git-scm.com (and optionally GitHub CLI: https://cli.github.com)
+3. Download the project:
+   ```
+   git clone https://github.com/Parin-create/chem-quiz.git
+   ```
+4. Go into the folder and install libraries:
+   ```
+   cd chem-quiz
+   npm install
+   ```
+5. Run it:
+   ```
+   npm run dev
+   ```
+
+After making changes, save them to GitHub from any laptop:
+   ```
+   git add -A
+   git commit -m "describe what you changed"
+   git push
+   ```
+
+To pull the latest version onto another laptop before working:
+   ```
+   git pull
+   ```
+
+---
+
 ## Open it on ANOTHER laptop (via OneDrive)
 
 The project folder lives in OneDrive, so it syncs to the cloud automatically.
